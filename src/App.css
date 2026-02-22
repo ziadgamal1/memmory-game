@@ -45,3 +45,11 @@
 .read-the-docs {
   color: #888;
 }
+.back {
+  position: absolute;
+  transform: translate(-118px, -202px);
+  width: 225px;
+  height: 205px;
+  border-radius: 100%;
+  background-color: wheat;
+}
